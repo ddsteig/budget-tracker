@@ -63,6 +63,9 @@
   Mongoose, MongoDB Atlas, Heroku, Robo 3T, Node, IndexedDB, Cache
 
   ![Cache](https://github.com/ddsteig/budget-tracker/blob/main/imgs/cache2.jpg "Cache")
+
+  Install and activation of Service worker for cache.
+
   <hr>
   
   ## Test Information <a name="test"></a>
