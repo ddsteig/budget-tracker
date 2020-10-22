@@ -4,7 +4,7 @@
 
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
- ![Budget](https://github.com/ddsteig/workout-tracker/blob/main/imgs/budget.jpg "Budget")
+ ![Budget](https://github.com/ddsteig/budget-tracker/blob/main/imgs/budget.jpg "Budget")
 
   ## Table of Contents
   - [Description](#description)
@@ -50,11 +50,11 @@
   
   The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. The pwa will make use of storing information in IndexedDB when offline and then when returning online retrieving it and sending it to the database.
 
-   ![Cache](https://github.com/ddsteig/workout-tracker/blob/main/imgs/cache.jpg "Cache")
+   ![Cache](https://github.com/ddsteig/budget-tracker/blob/main/imgs/cache.jpg "Cache")
 
   PWA will also use cacheing to enable offline useage.
   
-   ![IndexedDB](https://github.com/ddsteig/workout-tracker/blob/main/imgs/db.jpg "IndexedDB")
+   ![IndexedDB](https://github.com/ddsteig/budget-tracker/blob/main/imgs/db.jpg "IndexedDB")
 
   <hr>
   
@@ -62,7 +62,7 @@
   
   Mongoose, MongoDB Atlas, Heroku, Robo 3T, Node, IndexedDB, Cache
 
-  ![Cache](https://github.com/ddsteig/workout-tracker/blob/main/imgs/cache2.jpg "Cache")
+  ![Cache](https://github.com/ddsteig/budget-tracker/blob/main/imgs/cache2.jpg "Cache")
   <hr>
   
   ## Test Information <a name="test"></a>
